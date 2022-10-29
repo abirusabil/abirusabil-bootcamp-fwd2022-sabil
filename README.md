@@ -1,2 +1,2 @@
-# abirusabil-bootcamp-fwd2022-sabil
+# bootcamp-fwd2022-sabil
 abirusabil/bootcamp-fwd2022-sabil
